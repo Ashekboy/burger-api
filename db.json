@@ -1,0 +1,31 @@
+{
+    "burgers": [
+        {
+            "id": 0,
+            "name": "Burger Chokes",
+            "price": 450,
+            "rating": 4,
+            "ingredients": ["beef", "flour", "sugar"],
+            "description": "Very good Burger for you",
+            "image": "https://img.bb/7yuiid/img.png"
+        }, 
+        {
+            "id": 1,
+            "name": "Burger Pie",
+            "price": 20,
+            "rating": 3,
+            "ingredients": ["beef", "flour", "sugar"],
+            "description": "Very good Burger for you",
+            "image": "https://img.bb/7yuiid/img.png"
+        },
+        {
+            "id": 2,
+            "name": "Burger Meat",
+            "price": 25,
+            "rating": 4,
+            "ingredients": ["beef", "flour", "sugar"],
+            "description": "Very good Burger for you",
+            "image": "https://img.bb/7yuiid/img.png"
+        }
+    ]
+}
